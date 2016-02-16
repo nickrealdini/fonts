@@ -38,3 +38,8 @@ Font Families
  Monofur for Powerline                   Monofur                   Freeware
  Fura Powerline                          FiraMono                  SIL Open Font License, Version 1.1
 ======================================= ========================= ====================================
+
+iTerm2 font settings
+-------------
+
+![iTerm2 Font Settings](https://raw.githubusercontent.com/nickrealdini/.vim/master/iTerm2-font-settings.png)
